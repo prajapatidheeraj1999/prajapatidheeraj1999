@@ -4,7 +4,7 @@
 
 <img src="https://miro.medium.com/max/1400/0*enrI7BXUzwJEomlq.gif" alt="gif" height="400px" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noormohammed17&label=Profile%20views&color=0e75b6&style=flat" alt="noormohammed17" /> </p>
+
 
 - 🔭 I’m currently working on **Projects**
 
