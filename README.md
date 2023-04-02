@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dheeraj-prajapati-a093bb1a3/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/dheeraj-prajapati-a093bb1a3/" height="30" width="100" /></a>
  
-<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/m-noor-mohammed-6130a4165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-noor-mohammed-6130a4165/" height="30" width="40" /></a> -->
+
 </p>
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
