@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, javaScript , React.js and Next.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://noormohammed17.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://prajapatidheeraj1999.github.io/)
 
 - 📄 Check [Resume](https://drive.google.com/file/d/1F9aVEvCZxGnoVe84yBlQ1FY8qCNyRc7z/view?usp=share_link)
 
